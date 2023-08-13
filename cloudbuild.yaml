@@ -1,0 +1,11 @@
+steps:
+- name: gcr.io/cloud-builders/gsutil
+  args:
+    - '-m'
+    - 'rsync'
+    - '-d'
+    - '-r'
+    - '.'
+    - 'gs://${_GCS_BUCKET}/dags'
+options:
+  logging: CLOUD_LOGGING_ONLY
