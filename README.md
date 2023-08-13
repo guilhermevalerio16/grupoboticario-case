@@ -11,7 +11,7 @@ Existem duas etapas para o desenvolvimento deste case:
 ### Tasks desenvolvidas
 
 Foi criado um projeto privado no Trello para criação das tasks contendo entregáveis
-![image](https://github.com/guilhermevalerio16/grupoboticario-case/assets/61855053/71665ad1-8046-49c5-8cdf-e5eb72e8693b)
+![image](https://github.com/guilhermevalerio16/grupoboticario-case/assets/61855053/f6d1c8e5-f9dc-494e-8e87-8dfa46a1fad6)
 
 ### Serviços utilizados:
 - Visual Studio Code para desenvolvimento dos códigos e testes;
@@ -59,13 +59,11 @@ Siga os seguintes passos:
   - `gb_spotify_data_ingestion`
 
 ### BigQuery
-![image](https://github.com/guilhermevalerio16/grupoboticario-case/assets/61855053/03b3b07e-18f5-4161-a50e-97f4a95cb55f)
-
+![image](https://github.com/guilhermevalerio16/grupoboticario-case/assets/61855053/6c820d25-37bf-42c3-ac73-ad1f88711c6c)
 ### DAG de vendas
-![image](https://github.com/guilhermevalerio16/grupoboticario-case/assets/61855053/49a28a89-cbb6-4585-bd22-85821f0c83c0)
+![image](https://github.com/guilhermevalerio16/grupoboticario-case/assets/61855053/554d5184-3219-4251-bb17-893a3df5632d)
 
-### DAG do Spotify
-![image](https://github.com/guilhermevalerio16/grupoboticario-case/assets/61855053/a5953867-16db-4437-a1e5-78824b64b1a7)
+![image](https://github.com/guilhermevalerio16/grupoboticario-case/assets/61855053/aff3591a-65f7-46eb-83cb-7ef5b7ad8988)
 
 
 Autor: [Guilherme Valério](https://www.linkedin.com/in/guilhermevalerio/)
